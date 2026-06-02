@@ -14,7 +14,7 @@ I'm thrilled to have you visit my personal profile website. This is your one-sto
 
 ## Website
 
-You can visit my website [here](https://oinamclintonsingh.github.io/Oinam-Clinton-Singh-Portfolio/).
+You can visit my website [here](https://oinamclintonsingh.github.io/profile/).
 
 ---
 
